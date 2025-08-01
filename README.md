@@ -112,3 +112,7 @@ bash scripts/qwen3/gakd_rkl/wgan_rkl_0.6B.sh /PATH_TO/GAKD
 bash scripts/qwen3/gakd_rkl/wgan_rkl_1.7B.sh /PATH_TO/GAKD
 bash scripts/qwen3/gakd_rkl/wgan_rkl_4B.sh /PATH_TO/GAKD
 ```
+
+## Acknowledgements
+
+We thank the authors of [MiniLLM](https://github.com/microsoft/LMOps/tree/main/minillm) for their open-sourced codebase and datasets. This project is built upon their work, with modifications and extensions to implement the GAKD framework.
