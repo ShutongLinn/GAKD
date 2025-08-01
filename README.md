@@ -1,7 +1,5 @@
 # GAKD: Generative Adversarial Knowledge Distillation
 
-[huggingface](https://huggingface.co/collections/Suttooo/gakd-6889f36aac00296314e6da59)
-
 GAKD (Generative Adversarial Knowledge Distillation) is a framework that leverages adversarial training to enhance knowledge distillation from large teacher models to smaller student models. This repository provides code, data processing scripts, evaluation pipelines, and training configurations for reproducing the GAKD method and its baselines.
 
 ## 1 Environment
