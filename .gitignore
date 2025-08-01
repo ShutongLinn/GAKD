@@ -1,0 +1,10 @@
+.env
+*.env
+__pycache__
+checkpoints
+results
+processed_data
+data
+log.txt
+wandb/
+logs
